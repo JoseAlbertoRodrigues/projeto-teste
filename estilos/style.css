@@ -9,9 +9,10 @@ body {
 }
 
 .menu {
+    height: 80px;
     list-style: none;
-    border: 1px solid #c0c0c0;
-    float: left;
+    background-color: white;
+    float: right;
 }
 
 .menu li {
@@ -30,4 +31,8 @@ body {
 .menu li a:hover {
     background-color: #333;
     color: #fff;
+}
+
+footer {
+    border-bottom: auto;
 }
