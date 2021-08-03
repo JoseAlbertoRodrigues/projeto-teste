@@ -26,3 +26,8 @@ body {
     padding: 5px 10px;
     display: block;
 }
+
+.menu li a:hover {
+    background-color: #333;
+    color: #fff;
+}
